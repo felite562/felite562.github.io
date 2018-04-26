@@ -32,7 +32,7 @@ header {
     background-attachment: scroll;
     background-clip: border-box;
     background-color: #161415;
-    background-image: url("../images/fon/50.jpg");
+    background-image: url("../images/fon/a2.jpg");
     background-origin: padding-box;
     background-position: center top;
     background-repeat: no-repeat;
@@ -64,10 +64,10 @@ header .banner {
 header .banner-text { width: 100%; }
 header .banner-text h1 {
    font: 90px/1.1em 'opensans-bold', sans-serif;
-   color: #fff;
+   color: #060934;
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
-   text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
+   /*text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);*/
 }
 header .banner-text h3 {
    font: 18px/1.9em 'librebaskerville-regular', serif;
@@ -174,7 +174,7 @@ font-size: 13px;
    line-height: 32px;
 	text-decoration: none;
    text-align: left;
-   color: #f6e9e7;
+   color: #b8372f;
 
 	-webkit-transition: color .2s ease-in-out;
 	-moz-transition: color .2s ease-in-out;
@@ -184,7 +184,7 @@ font-size: 13px;
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #c26a65; }
+ul#nav li.current a { color: #181b0b; }
 .lang { font-size: 12px !important;
     line-height: 3px !important;
     padding-top: 5px !important;
@@ -199,8 +199,8 @@ ul#nav li.current a { color: #c26a65; }
 
 #about {
   
-   padding-top: 96px;
-   padding-bottom: 66px;
+  padding-top: 6px;
+    padding-bottom: 136px;
    overflow: hidden;
 }
 
@@ -209,7 +209,7 @@ ul#nav li.current a { color: #c26a65; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
-   color: #2c353f;
+   color: #824d22;
    margin-bottom: 12px;
 }
 #about p {
