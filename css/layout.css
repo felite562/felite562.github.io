@@ -200,7 +200,7 @@ ul#nav li.current a { color: #181b0b; }
 #about {
   
   padding-top: 6px;
-    padding-bottom: 136px;
+    padding-bottom: -36px;
    overflow: hidden;
 }
 
