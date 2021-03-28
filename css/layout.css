@@ -174,7 +174,7 @@ font-size: 13px;
    line-height: 32px;
 	text-decoration: none;
    text-align: left;
-   color: #b8372f;
+   color: #f59bdb;
 
 	-webkit-transition: color .2s ease-in-out;
 	-moz-transition: color .2s ease-in-out;
@@ -209,7 +209,7 @@ ul#nav li.current a { color: #181b0b; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
-   color: #824d22;
+   color: #f59bdb;
    margin-bottom: 12px;
 }
 #about p {
