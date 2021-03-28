@@ -463,7 +463,7 @@ button,
 input[type="submit"],
 input[type="reset"],
 input[type="button"] {
-   background: none repeat scroll 0 0 #61941b7a;
+   background: none repeat scroll 0 0  #fffbff42;
     border: medium none;
     border-radius: 3px;
     color: #fff;
