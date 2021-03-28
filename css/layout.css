@@ -259,7 +259,7 @@ ul#nav li.current a { color: #181b0b; }
    overflow: hidden;
 }
 
-#resume a, #resume a:visited  { color: #C26A69; }
+#resume a, #resume a:visited  { color: #7d145f; }
 #resume a:hover, #resume a:focus { color: #313131; }
 
 #resume h1 {
@@ -268,7 +268,7 @@ ul#nav li.current a { color: #181b0b; }
    letter-spacing: 1px;
 }
 #resume h1 span {
-   border-bottom: 3px solid #C26A69;
+   border-bottom: 3px solid #7d145f;
    padding-bottom: 6px;
 }
 #resume h3 {
